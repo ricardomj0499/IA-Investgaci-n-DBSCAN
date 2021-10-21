@@ -1,2 +1,2 @@
-# IA-Investgaci-n-DBSCAN
+# IA-Investgación-DBSCAN
 Investigación sobre DBSCAN Clustering
